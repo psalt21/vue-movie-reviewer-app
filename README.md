@@ -1,6 +1,6 @@
 # vue-movie-reviewer-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Have fun searching and reviewing movies1
 
 ## Recommended IDE Setup
 
